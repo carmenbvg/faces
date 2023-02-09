@@ -1,0 +1,4 @@
+0 Saludo
+1 Alegre
+2 Sorpresa
+3 Neutro
